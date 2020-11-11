@@ -1,0 +1,38 @@
+<annotation>
+	<folder>001</folder>
+	<filename>32.jpg</filename>
+	<path>C:\Users\mad\Desktop\dataset\solo-levelling\001\32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>1</ymin>
+			<xmax>668</xmax>
+			<ymax>31</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dialog box</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>1</ymin>
+			<xmax>690</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
