@@ -10,9 +10,9 @@ Not complete yet, but will be perfect in the near future
 
 ## Content
 
-! [ilust1](docs/img/1.png)
+![ilust1](docs/img/1.png)
 
-! [ilust2](docs/img/2.png)
+![ilust2](docs/img/2.png)
 
 using labelImg for labelling objects in webtoon dataset.
 
